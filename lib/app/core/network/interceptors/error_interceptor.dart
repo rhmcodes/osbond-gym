@@ -1,0 +1,3 @@
+class ErrorInterceptor {
+  const ErrorInterceptor();
+}

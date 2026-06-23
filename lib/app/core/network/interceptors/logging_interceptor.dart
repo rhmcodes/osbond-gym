@@ -1,0 +1,3 @@
+class LoggingInterceptor {
+  const LoggingInterceptor();
+}
